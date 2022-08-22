@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:ital,wght@1,100&family=Raleway:ital,wght@0,700;1,900&family=Roboto:wght@700&display=swap');
+
+.banner2{
+    font-weight: bold;
+    
+    /* font-family: "Raleway", sans-serif; */
+}
+.banars{
+    font-family: "Raleway", sans-serif;
+    font-weight:900;
+    font-size: 60px;
+    color: rgb(176, 38, 171) !important ;
+}
+.banars3{
+    /* font-family: "Raleway", sans-serif; */
+    font-weight:bold;
+    /* font-size: 30px; */
+    color: rgb(176, 38, 171) !important ;
+}
+
+.icns-background-shape{
+    border-radius: 80px;
+    background: linear-gradient(97deg, rgba(132, 38, 176, 1) 0%, rgba(182, 11, 134, 1) 72%, rgba(240, 74, 85, 1) 98%);
+    padding: 38px;
+    color: white;
+    width: 130px;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    
+}
+
+.heading-color{
+    background: linear-gradient(97deg, rgba(132, 38, 176, 1) 0%, rgba(182, 11, 134, 1) 72%, rgba(240, 74, 85, 1) 98%);
+    font-family: "Raleway", sans-serif;
+    font-weight: bolder;
+}
+.icns-color{
+    color: rgb(176, 38, 171) !important ;
+}
+.bg-color{
+    background-color: rgba(152, 152, 152, 0.103);
+}
+.texts{
+    font-weight:500;
+    font-size: larger;
+    line-height:0%;
+    color: gray;
+}
+.textes{
+    font-weight: 500;
+    font-size: larger;
+   
+}
+.textes2{
+    font-weight: 500;
+    font-size: larger;
+    
+}
+.texts1{
+    font-weight: 500;
+    font-size: larger;
+    color: gray;
+}
+.font-react{
+    font-size: 45px;
+}

@@ -1,0 +1,64 @@
+.contact-heading{
+    font-family: "Raleway", sans-serif;
+    font-weight:700;
+    font-size: 60px;
+}
+.colors-contact{
+    color: rgb(176, 38, 171) !important ;
+}
+.contact-map-title{
+    font-family: "Raleway", sans-serif;
+    font-weight:700;
+    color: rgb(120, 19, 183) !important ;
+}
+
+input[type=text] {
+    outline: 0;
+  border-width: 0 0 2px;
+  border-color: rgb(120, 19, 183);
+  /* width: 500px; */
+  font-family: 'M PLUS 1', sans-serif;
+  font-weight: 500;
+  }
+  input:focus {
+    border-color: green
+  }
+  textarea{
+    outline: 0;
+  border-width: 0 0 2px;
+  border-color: rgb(176, 38, 171);
+  width: 500px;
+  font-family: 'M PLUS 1', sans-serif;
+  font-weight: 500;
+  }
+
+.add-service form input, textarea {
+    width: 40%;
+    margin-bottom: 10px;
+    border: none;
+}
+.contact-button{
+    border: none;
+    background: linear-gradient(97deg, rgba(132, 38, 176, 1) 0%, rgba(182, 11, 134, 1) 72%, rgba(240, 74, 85, 1) 98%);
+    padding: 12px;
+    width: 250px;
+    color: white;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    
+}
+.contact-button:hover{
+    border: none;
+    background: linear-gradient(97deg, rgba(132, 38, 176, 1) 0%, rgba( 240, 74, 85, 7) 72%, rgba(182, 11, 134, 1) 98%);
+    padding: 12px;
+    width: 250px;
+    color: white;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+}

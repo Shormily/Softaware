@@ -1,0 +1,13 @@
+.img-designs{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), url(../images/img16.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 170px 40px;
+    color: #edf6f9;
+}
+
+.add-button-flex{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,40 @@
+.about-title{
+    font-weight: 900;
+    background-color: rgba(152, 152, 152, 0.103);
+    color: grey;
+}
+
+
+
+.about-title-1{
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight:900;
+    font-size: 60px;
+    color: black ;
+}
+.pragraph-size-1{
+    font-size: 20px;
+    font-weight:500;
+}
+.pragraph-size{
+    font-size: 20px;
+}
+
+.icns-background-shape-1{
+    border-radius: 80px;
+    background:rgba(255, 255, 255, 0.224);
+    padding: 20px;
+    color: white;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    
+}
+.link-colors{
+    border: none;
+    text-decoration: none;
+    color:brown;
+
+}

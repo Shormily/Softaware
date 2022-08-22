@@ -1,0 +1,81 @@
+/* .carousel-three{
+    background: url(../images/img4.jpg) no-repeat center center;
+    background-size: cover;
+    
+    padding: 240px 40px;
+    color: #edf6f9;
+  } */
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:ital,wght@1,100&family=Raleway:ital,wght@0,500;0,700;1,900&family=Roboto:wght@700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:ital,wght@1,100&family=Raleway:ital,wght@0,500;0,700;1,800;1,900&family=Roboto:wght@700&display=swap');
+
+
+  .add-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-title {
+    font-weight: 500;
+    font-size: 55px;
+    font-family: "Raleway", sans-serif;
+}
+.icn-col {
+    color: rgb(176, 38, 171) !important ;
+}
+.banner-text {
+    justify-content: center;
+    align-items: center;
+}
+.banner-titleS {
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+}
+
+.banner-button {
+    border: none;
+    background: linear-gradient(97deg, rgba(132, 38, 176, 1) 0%, rgba(182, 11, 134, 1) 72%, rgba(240, 74, 85, 1) 98%);
+    padding: 18px;
+    width: 270px;
+    color: white;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 17px;
+}
+.banner-button:hover {
+    border: none;
+    background: linear-gradient(97deg, rgba(132, 38, 176, 1) 0%, rgba( 240, 74, 85, 1) 72%, rgba(182, 11, 134, 1) 98%);
+    padding: 18px;
+    width: 270px;
+    color: white;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 17px;
+}
+.carousel-two {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)),
+        url(../images/code2.jpg) no-repeat center center;
+    background-size: cover;
+
+    padding: 110px 60px;
+    color: #edf6f9;
+}
+.carousel-one {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url(../images/img4.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 110px 40px;
+    color: #edf6f9;
+}
+.carousel-three {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(../images/img3.jpg) no-repeat center center;
+    background-size: cover;
+    padding: 134px 40px;
+
+    color: #edf6f9;
+}
